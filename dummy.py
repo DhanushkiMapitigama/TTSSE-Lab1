@@ -1,4 +1,8 @@
-# This is a dummy program
+# This is a dummy program to find prime numbers in a given interval
+
+"""
+Author: Dhanushki Mapitigama
+"""
 
 def is_prime(number):
     if number < 2:
