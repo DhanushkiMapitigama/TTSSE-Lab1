@@ -1,5 +1,4 @@
 # This is a dummy program to find prime numbers in a given interval
-
 """
 Author: Dhanushki Mapitigama
 """
