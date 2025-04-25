@@ -1,6 +1,10 @@
 # This is a dummy program
 
 def sieve_of_eratosthenes(limit): # ChatGPT gave this script - did not check the correctness
+"""
+Input: limit (int)
+Output: prime numbers (int array)
+"""
     primes = [True] * (limit + 1)
     primes[0] = primes[1] = False  # 0 and 1 are not prime
 
