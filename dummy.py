@@ -1,4 +1,8 @@
-# This is a dummy program
+# This is a dummy program to find prime numbers in a given interval
+
+"""
+Author: Dhanushki Mapitigama
+"""
 
 def sieve_of_eratosthenes(limit): # ChatGPT gave this script - did not check the correctness
 """
